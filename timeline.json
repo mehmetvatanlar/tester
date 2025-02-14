@@ -1,0 +1,180 @@
+{
+    "posts": [
+      {
+        "id": "post1",
+        "user": {
+          "id": "user123",
+          "name": "Ayşe Yılmaz",
+          "profileImage": "https://example.com/profiles/ayse.jpg"
+        },
+        "datetime": 1710942600,
+        "content": {
+          "text": "Bugün harika bir gün! İstanbul'da bahar başladı 🌸",
+          "images": [
+            "https://example.com/images/spring1.jpg",
+            "https://example.com/images/spring2.jpg"
+          ],
+          "videos": []
+        },
+        "likes": 245,
+        "comments": {
+          "count": 23,
+          "items": [
+            {
+              "id": "comment1",
+              "user": {
+                "id": "user444",
+                "name": "Elif Şahin",
+                "profileImage": "https://example.com/profiles/elif.jpg"
+              },
+              "datetime": 1710942900,
+              "text": "Gerçekten çok güzel bir gün, keşke ben de orada olsaydım! 😊"
+            },
+            {
+              "id": "comment2",
+              "user": {
+                "id": "user555",
+                "name": "Burak Öztürk",
+                "profileImage": "https://example.com/profiles/burak.jpg"
+              },
+              "datetime": 1710943200,
+              "text": "Bahar İstanbul'a çok yakışıyor 🌺"
+            }
+          ]
+        }
+      },
+      {
+        "id": "post2",
+        "user": {
+          "id": "user456",
+          "name": "Mehmet Demirxx",
+          "profileImage": "https://example.com/profiles/mehmet.jpg"
+        },
+        "datetime": 1710937800,
+        "content": {
+          "text": "Yeni projemizin tanıtım videosu! 🎥",
+          "images": [],
+          "videos": [
+            {
+              "url": "https://example.com/videos/project-preview.mp4",
+              "thumbnail": "https://example.com/thumbnails/project-preview.jpg",
+              "duration": "2:30"
+            }
+          ]
+        },
+        "likes": 567,
+        "comments": {
+          "count": 89,
+          "items": [
+            {
+              "id": "comment3",
+              "user": {
+                "id": "user666",
+                "name": "Deniz Yıldız",
+                "profileImage": "https://example.com/profiles/deniz.jpg"
+              },
+              "datetime": 1710938100,
+              "text": "Harika bir proje olmuş, tebrikler! 👏"
+            },
+            {
+              "id": "comment4",
+              "user": {
+                "id": "user777",
+                "name": "Selin Kara",
+                "profileImage": "https://example.com/profiles/selin.jpg"
+              },
+              "datetime": 1710938400,
+              "text": "Çok başarılı, devamını bekliyoruz 🙌"
+            }
+          ]
+        }
+      },
+      {
+        "id": "post3",
+        "user": {
+          "id": "user789",
+          "name": "Zeynep Kaya",
+          "profileImage": "https://example.com/profiles/zeynep.jpg"
+        },
+        "datetime": 1710933600,
+        "content": {
+          "text": "Fotoğraf galerimden seçmeler 📸",
+          "images": [
+            "https://example.com/images/gallery1.jpg",
+            "https://example.com/images/gallery2.jpg",
+            "https://example.com/images/gallery3.jpg",
+            "https://example.com/images/gallery4.jpg"
+          ],
+          "videos": []
+        },
+        "likes": 789,
+        "comments": {
+          "count": 45,
+          "items": [
+            {
+              "id": "comment5",
+              "user": {
+                "id": "user888",
+                "name": "Mert Aydın",
+                "profileImage": "https://example.com/profiles/mert.jpg"
+              },
+              "datetime": 1710934200,
+              "text": "Fotoğraflar muhteşem olmuş! 📸✨"
+            }
+          ]
+        }
+      },
+      {
+        "id": "post4",
+        "user": {
+          "id": "user101",
+          "name": "Can Yücel",
+          "profileImage": "https://example.com/profiles/can.jpg"
+        },
+        "datetime": 1710932700,
+        "content": {
+          "text": "Yeni video serim başladı! Tüm bölümleri buradan izleyebilirsiniz.",
+          "images": [],
+          "videos": [
+            {
+              "url": "https://example.com/videos/series-ep1.mp4",
+              "thumbnail": "https://example.com/thumbnails/series-ep1.jpg",
+              "duration": "15:20"
+            },
+            {
+              "url": "https://example.com/videos/series-ep2.mp4",
+              "thumbnail": "https://example.com/thumbnails/series-ep2.jpg",
+              "duration": "12:45"
+            }
+          ]
+        },
+        "likes": 1234,
+        "comments": {
+          "count": 234,
+          "items": [
+            {
+              "id": "comment6",
+              "user": {
+                "id": "user999",
+                "name": "Ceren Aksoy",
+                "profileImage": "https://example.com/profiles/ceren.jpg"
+              },
+              "datetime": 1710933000,
+              "text": "İlk bölümü izledim, gerçekten çok bilgilendirici olmuş 👍"
+            },
+            {
+              "id": "comment7",
+              "user": {
+                "id": "user1010",
+                "name": "Ahmet Yılmaz",
+                "profileImage": "https://example.com/profiles/ahmet.jpg"
+              },
+              "datetime": 1710933300,
+              "text": "Yeni bölümleri sabırsızlıkla bekliyorum! 🎬"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
