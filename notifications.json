@@ -1,0 +1,17 @@
+{
+  "notifications": [
+    {
+      "id": "notif_350",
+      "title": "Tester?",
+      "body": "Uygulamamızı kullandığınız için teşekkürler.",
+      "url": "https://webapptester-details.requestcatcher.com/?offer=welcome"
+    },
+    {
+      "id": "notif_002",
+      "title": "Özel Teklif",
+      "body": "Size özel indirim fırsatını kaçırmayın!",
+      "url": "https://webapptester-details.requestcatcher.com/?offer=special"
+    }
+  ],
+  "check_interval_seconds": 10
+}
