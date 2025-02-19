@@ -19,5 +19,5 @@
       "url": "https://webapptester-details.requestcatcher.com/?offer=special"
     }
   ],
-  "check_interval_seconds": 15
+  "check_interval_seconds": 3
 }
