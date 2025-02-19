@@ -11,6 +11,12 @@
       "title": "Özel Teklif",
       "body": "Size özel indirim fırsatını kaçırmayın!",
       "url": "https://webapptester-details.requestcatcher.com/?offer=special"
+    },
+    {
+      "id": "notif_003",
+      "title": "Özel Teklif",
+      "body": "Size özel indirim fırsatını kaçırmayın!",
+      "url": "https://webapptester-details.requestcatcher.com/?offer=special"
     }
   ],
   "check_interval_seconds": 10
