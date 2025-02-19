@@ -1,0 +1,18 @@
+{
+  "theme": {
+    "android": {
+      "primary_color": "#0d5afd",
+      "splash_background": "#0d5afd"
+    },
+    "ios": {
+      "primary_color": "#0d5afd",
+      "splash_background": "#0d5afd"
+    }
+  },
+  "initial_url": "https://webapptester-details.requestcatcher.com/",
+  "splash_animation": {
+    "duration_ms": 1500,
+    "min_scale": 0.8,
+    "max_scale": 1
+  }
+}
