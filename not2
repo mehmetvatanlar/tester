@@ -1,0 +1,10 @@
+{
+  "notifications": [
+    {
+      "id": "notif_999",
+      "title": "Hoşgeldin!",
+      "body": "İyi ki geldin!",
+      "url": "https://tssk.requestcatcher.com/?"
+    }
+  "check_interval_seconds": 3
+}
