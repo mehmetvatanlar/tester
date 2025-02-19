@@ -1,10 +1,10 @@
 {
   "notifications": [
     {
-      "id": "notif_353",
+      "id": "notif_354",
       "title": "Tester...",
       "body": "Uygulamamızı kullandığınız için teşekkürler.",
-      "url": "https://webapptester-details.requestcatcher.com/?offer=welcome"
+      "url": "https://tassak.requestcatcher.com/?"
     },
     {
       "id": "notif_002",
